@@ -1,0 +1,9 @@
+# Reguła 1
+User-agent: Googlebot
+Disallow: /vendor/
+
+# Reguła 2
+User-agent: *
+Allow: /
+
+Sitemap: http://catering-tradycyjny.pl/sitemap.xml
