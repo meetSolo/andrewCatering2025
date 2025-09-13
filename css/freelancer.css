@@ -400,7 +400,7 @@ a:focus, a:hover, a:active {
   border-color: #1a252f;
 }
 .slide1{
-background: url('/img/slide1.jpg');
+background: url('../img/slide1.jpg');
 height: 100vh;
 
   background-repeat: no-repeat;
@@ -409,7 +409,7 @@ background-position: center center;
 
 }
 .slide2{
-background: url('/img/slide2.jpg');
+background: url('../img/slide2.jpg');
 height: 100vh;
   background-repeat: no-repeat;
 background-size: cover;
@@ -417,7 +417,7 @@ background-position: center right;
 
 }
 .slide3{
-background: url('/img/slide3.jpg');
+background: url('../img/slide3.jpg');
 height: 100vh;
   background-repeat: no-repeat;
 background-size: cover;
